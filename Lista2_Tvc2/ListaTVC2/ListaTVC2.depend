@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1508874323 source:c:\users\thiago\desktop\lista2_tvc2\listatvc2\listacont.cpp
+	<iostream>
+	"ListaCont.h"
+
+1508873345 c:\users\thiago\desktop\lista2_tvc2\listatvc2\listacont.h
+
+1509120945 source:c:\users\thiago\desktop\lista2_tvc2\listatvc2\main.cpp
+	<iostream>
+	"ListaCont.h"
+	"ListaEncad.h"
+
+1506463148 source:c:\users\thiago\desktop\lista2_tvc2\listatvc2\listaencad.cpp
+	<iostream>
+	"ListaEncad.h"
+	"No.h"
+
+1509115071 c:\users\thiago\desktop\lista2_tvc2\listatvc2\listaencad.h
+	"No.h"
+
+1506030818 c:\users\thiago\desktop\lista2_tvc2\listatvc2\no.h
+
+1506459342 source:c:\users\thiago\desktop\lista2_tvc2\listatvc2\no.cpp
+	"No.h"
+

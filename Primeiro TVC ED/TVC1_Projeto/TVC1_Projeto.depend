@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1504720426 source:c:\users\thiago\desktop\primeiro tvc ed\tvc1_projeto\matriztridiagsec.cpp
+	<iostream>
+	"MatrizTriDiagSec.h"
+
+1504720426 c:\users\thiago\desktop\primeiro tvc ed\tvc1_projeto\matriztridiagsec.h
+
+1505327007 source:c:\users\thiago\desktop\primeiro tvc ed\tvc1_projeto\triangulo.cpp
+	<iostream>
+	<cmath>
+	"Ponto.h"
+	"Triangulo.h"
+
+1504720426 c:\users\thiago\desktop\primeiro tvc ed\tvc1_projeto\ponto.h
+
+1504720426 c:\users\thiago\desktop\primeiro tvc ed\tvc1_projeto\triangulo.h
+
+1505313725 source:c:\users\thiago\desktop\primeiro tvc ed\tvc1_projeto\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	"Ponto.h"
+	"Triangulo.h"
+	"MatrizTriDiagSec.h"
+

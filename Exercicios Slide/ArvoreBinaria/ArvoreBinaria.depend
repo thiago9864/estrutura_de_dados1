@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1511711064 source:c:\users\thiago\desktop\ufjf\ed 1\exercicios slide\arvorebinaria\arvore.cpp
+	<iostream>
+	<sstream>
+	<cstdlib>
+	<cmath>
+	"No.h"
+	"Arvore.h"
+	"FilaEncad.h"
+	"PilhaEncad.h"
+
+1510665224 c:\users\thiago\desktop\ufjf\ed 1\exercicios slide\arvorebinaria\no.h
+
+1511710200 c:\users\thiago\desktop\ufjf\ed 1\exercicios slide\arvorebinaria\arvore.h
+	"No.h"
+
+1511711133 source:c:\users\thiago\desktop\ufjf\ed 1\exercicios slide\arvorebinaria\main.cpp
+	<iostream>
+	"Arvore.h"
+
+1511706816 c:\users\thiago\desktop\ufjf\ed 1\exercicios slide\arvorebinaria\filaencad.h
+	"NoFila.h"
+	"No.h"
+
+1511706843 c:\users\thiago\desktop\ufjf\ed 1\exercicios slide\arvorebinaria\nofila.h
+	"No.h"
+
+1511706610 source:c:\users\thiago\desktop\ufjf\ed 1\exercicios slide\arvorebinaria\filaencad.cpp
+	<iostream>
+	"FilaEncad.h"
+	<cstdlib>
+
+1511710417 c:\users\thiago\desktop\ufjf\ed 1\exercicios slide\arvorebinaria\pilhaencad.h
+	"NoFila.h"
+
+1511711118 source:c:\users\thiago\desktop\ufjf\ed 1\exercicios slide\arvorebinaria\pilhaencad.cpp
+	<iostream>
+	"PilhaEncad.h"
+	<cstdlib>
+

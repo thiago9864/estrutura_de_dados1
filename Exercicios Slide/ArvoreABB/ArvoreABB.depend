@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1511736389 source:c:\users\thiago\desktop\ufjf\ed 1\exercicios slide\arvoreabb\arvoreabb.cpp
+	<iostream>
+	<cmath>
+	"No.h"
+	"ArvoreABB.h"
+	"PilhaEncad.h"
+
+1510665224 c:\users\thiago\desktop\ufjf\ed 1\exercicios slide\arvoreabb\no.h
+
+1511735119 c:\users\thiago\desktop\ufjf\ed 1\exercicios slide\arvoreabb\arvoreabb.h
+	"No.h"
+
+1511735481 source:c:\users\thiago\desktop\ufjf\ed 1\exercicios slide\arvoreabb\main.cpp
+	<iostream>
+	"ArvoreABB.h"
+
+1511710417 c:\users\thiago\desktop\ufjf\ed 1\exercicios slide\arvoreabb\pilhaencad.h
+	"NoFila.h"
+
+1511706843 c:\users\thiago\desktop\ufjf\ed 1\exercicios slide\arvoreabb\nofila.h
+	"No.h"
+
+1511711118 source:c:\users\thiago\desktop\ufjf\ed 1\exercicios slide\arvoreabb\pilhaencad.cpp
+	<iostream>
+	"PilhaEncad.h"
+	<cstdlib>
+

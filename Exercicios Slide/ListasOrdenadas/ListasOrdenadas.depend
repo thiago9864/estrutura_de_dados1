@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1509366872 source:c:\users\thiago\desktop\ufjf\ed 1\exercicios slide\listasordenadas\listaordcont.cpp
+	<iostream>
+	<cstdlib>
+	"ListaOrdCont.h"
+
+1509367649 c:\users\thiago\desktop\ufjf\ed 1\exercicios slide\listasordenadas\listaordcont.h
+
+1509367846 source:c:\users\thiago\desktop\ufjf\ed 1\exercicios slide\listasordenadas\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"ListaOrdCont.h"
+	"ListaOrdEncad.h"
+	"Pilha.h"
+
+1509367988 source:c:\users\thiago\desktop\ufjf\ed 1\exercicios slide\listasordenadas\listaordencad.cpp
+	<iostream>
+	<cstdlib>
+	"ListaOrdEncad.h"
+	"No.h"
+
+1509367664 c:\users\thiago\desktop\ufjf\ed 1\exercicios slide\listasordenadas\listaordencad.h
+
+1509367023 c:\users\thiago\desktop\ufjf\ed 1\exercicios slide\listasordenadas\no.h
+
+1509125970 c:\users\thiago\desktop\ufjf\ed 1\exercicios slide\listasordenadas\pilha.h
+
+1509367745 source:c:\users\thiago\desktop\ufjf\ed 1\exercicios slide\listasordenadas\no.cpp
+	<iostream>
+	<cstdlib>
+	"No.h"
+
+1509125757 source:c:\users\thiago\desktop\ufjf\ed 1\exercicios slide\listasordenadas\pilha.cpp
+	<iostream>
+	<cstdlib>
+	"NoPilha.h"
+	"Pilha.h"
+
+1509125657 c:\users\thiago\desktop\ufjf\ed 1\exercicios slide\listasordenadas\nopilha.h
+

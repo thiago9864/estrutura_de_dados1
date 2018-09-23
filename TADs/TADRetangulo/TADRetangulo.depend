@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1504037353 source:c:\users\sala\downloads\tadretangulo\ponto.cpp
+	<iostream>
+	<cmath>
+	"Ponto.h"
+
+1504036195 c:\users\sala\downloads\tadretangulo\ponto.h
+
+1504037353 source:c:\users\sala\downloads\tadretangulo\main.cpp
+	<iostream>
+	"Retangulo.h"
+	"Ponto.h"
+
+1504037218 c:\users\sala\downloads\tadretangulo\retangulo.h
+	"Ponto.h"
+
+1504037573 source:c:\users\sala\downloads\tadretangulo\retangulo.cpp
+	<iostream>
+	<cmath>
+	"Retangulo.h"
+	"Ponto.h"
+

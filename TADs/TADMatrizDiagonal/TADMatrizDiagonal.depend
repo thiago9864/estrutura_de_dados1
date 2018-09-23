@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1505244402 source:c:\users\sala\downloads\tadmatrizdiagonal\main.cpp
+	<iostream>
+	"MatrizDiagonal.h"
+
+1505244402 c:\users\sala\downloads\tadmatrizdiagonal\matrizdiagonal.h
+
+1505244429 source:c:\users\sala\downloads\tadmatrizdiagonal\matrizdiagonal.cpp
+	<iostream>
+	<cstdlib>
+	"MatrizDiagonal.h"
+

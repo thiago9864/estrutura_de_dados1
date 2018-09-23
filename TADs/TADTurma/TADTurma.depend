@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1504209436 source:c:\users\sala\downloads\tadturma\aluno.cpp
+	<iostream>
+	"Aluno.h"
+
+1504209436 c:\users\sala\downloads\tadturma\aluno.h
+
+1504209436 source:c:\users\sala\downloads\tadturma\main.cpp
+	<iostream>
+	"Turma.h"
+
+1504209436 c:\users\sala\downloads\tadturma\turma.h
+	"Aluno.h"
+
+1504209500 source:c:\users\sala\downloads\tadturma\turma.cpp
+	<iostream>
+	"Aluno.h"
+	"Turma.h"
+

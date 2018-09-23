@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1503607298 source:c:\users\sala\downloads\tadvenda\main.cpp
+	<iostream>
+	"Venda.h"
+
+1503607221 c:\users\sala\downloads\tadvenda\venda.h
+

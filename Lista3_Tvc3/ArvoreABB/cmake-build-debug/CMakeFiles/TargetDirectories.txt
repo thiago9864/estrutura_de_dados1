@@ -1,0 +1,3 @@
+C:/Users/Thiago/Desktop/Lista3_Tvc3/ArvoreABB/cmake-build-debug/CMakeFiles/ArvoreABB.dir
+C:/Users/Thiago/Desktop/Lista3_Tvc3/ArvoreABB/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Thiago/Desktop/Lista3_Tvc3/ArvoreABB/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1509050426 source:c:\users\thiago\desktop\segundo tvc ed\tvc2_projeto\listadupla.cpp
+	<iostream>
+	<cstdlib>
+	"ListaDupla.h"
+
+1507731461 c:\users\thiago\desktop\segundo tvc ed\tvc2_projeto\listadupla.h
+	"NoDuplo.h"
+
+1507731461 c:\users\thiago\desktop\segundo tvc ed\tvc2_projeto\noduplo.h
+
+1508940267 source:c:\users\thiago\desktop\segundo tvc ed\tvc2_projeto\listasimplesord.cpp
+	<iostream>
+	<cstdlib>
+	"ListaSimplesOrd.h"
+
+1507731461 c:\users\thiago\desktop\segundo tvc ed\tvc2_projeto\listasimplesord.h
+	"NoPonto.h"
+
+1507731461 c:\users\thiago\desktop\segundo tvc ed\tvc2_projeto\noponto.h
+
+1509112636 source:c:\users\thiago\desktop\segundo tvc ed\tvc2_projeto\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<ctime>
+	<cstring>
+	"ListaCont.h"
+	"ListaSimplesOrd.h"
+	"ListaDupla.h"
+	"Pilha.h"
+
+1507731461 c:\users\thiago\desktop\segundo tvc ed\tvc2_projeto\listacont.h
+
+1507731461 c:\users\thiago\desktop\segundo tvc ed\tvc2_projeto\pilha.h
+	"NoPilha.h"
+
+1507731461 c:\users\thiago\desktop\segundo tvc ed\tvc2_projeto\nopilha.h
+
+1507731461 source:c:\users\thiago\desktop\segundo tvc ed\tvc2_projeto\pilha.cpp
+	<iostream>
+	<cstdlib>
+	"Pilha.h"
+
+1508876657 source:c:\users\thiago\desktop\segundo tvc ed\tvc2_projeto\listacont.cpp
+	<iostream>
+	<cstdlib>
+	"ListaCont.h"
+

@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1510595613 source:/ice/Área de Trabalho/Aula10/main.cpp
+	<iostream>
+	<cstring>
+	"ArvBin.h"
+
+1510595230 /ice/Área de Trabalho/Aula10/ArvBin.h
+	"No.h"
+
+1481158788 /ice/Área de Trabalho/Aula10/No.h
+
+1510595497 source:/ice/Área de Trabalho/Aula10/ArvBin.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<sstream>
+	"ArvBin.h"
+
+1511367876 source:c:\users\thiago\desktop\ufjf\lab programacao 2\aula10\arvbin.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<sstream>
+	"ArvBin.h"
+
+1511366120 c:\users\thiago\desktop\ufjf\lab programacao 2\aula10\arvbin.h
+	"No.h"
+
+1481169588 c:\users\thiago\desktop\ufjf\lab programacao 2\aula10\no.h
+
+1511366438 source:c:\users\thiago\desktop\ufjf\lab programacao 2\aula10\main.cpp
+	<iostream>
+	<cstring>
+	"ArvBin.h"
+

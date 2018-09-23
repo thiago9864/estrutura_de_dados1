@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1505704477 source:c:\users\thiago\desktop\ufjf\ed 1\exercicios slide\exercicios slide ed\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	"TADMatrizDiagonal.h"
+	"TADMatrizTriangular.h"
+
+1505703773 c:\users\thiago\desktop\ufjf\ed 1\exercicios slide\exercicios slide ed\tadmatrizdiagonal.h
+
+1505703792 source:c:\users\thiago\desktop\ufjf\ed 1\exercicios slide\exercicios slide ed\tadmatrizdiagonal.cpp
+	<iostream>
+	<cmath>
+	"TADMatrizDiagonal.h"
+
+1505703804 c:\users\thiago\desktop\ufjf\ed 1\exercicios slide\exercicios slide ed\tadmatriztriangular.h
+
+1505704204 source:c:\users\thiago\desktop\ufjf\ed 1\exercicios slide\exercicios slide ed\tadmatriztriangular.cpp
+	<iostream>
+	<cmath>
+	"TADMatrizTriangular.h"
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1504037353 source:c:\users\sala\downloads\tadcirculo\ponto.cpp
+	<iostream>
+	<cmath>
+	"Ponto.h"
+
+1504036195 c:\users\sala\downloads\tadcirculo\ponto.h
+

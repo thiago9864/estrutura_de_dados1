@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1506459488 source:c:\users\sala\downloads\tadlistaencad\listaencad.cpp
+	<iostream>
+	"ListaEncad.h"
+	"No.h"
+
+1506459488 c:\users\sala\downloads\tadlistaencad\listaencad.h
+	"No.h"
+
+1506027216 c:\users\sala\downloads\tadlistaencad\no.h
+
+1506459488 source:c:\users\sala\downloads\tadlistaencad\main.cpp
+	<iostream>
+	"ListaEncad.h"
+
+1506455741 source:c:\users\sala\downloads\tadlistaencad\no.cpp
+	"No.h"
+

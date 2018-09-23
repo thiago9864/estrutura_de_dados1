@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1505757130 source:/ice/Área de Trabalho/TVC1_Projeto/Equipe.cpp
+	<iostream>
+	"Jogador.h"
+	"Equipe.h"
+
+1505584819 /ice/Área de Trabalho/TVC1_Projeto/Jogador.h
+	<cstdlib>
+
+1505584819 /ice/Área de Trabalho/TVC1_Projeto/Equipe.h
+	"Jogador.h"
+
+1505760716 source:/ice/Área de Trabalho/TVC1_Projeto/Matriz3Linhas.cpp
+	"Matriz3Linhas.h"
+	<iostream>
+	<cstdlib>
+
+1505584805 /ice/Área de Trabalho/TVC1_Projeto/Matriz3Linhas.h
+
+1505760890 source:/ice/Área de Trabalho/TVC1_Projeto/main.cpp
+	<iostream>
+	"Jogador.h"
+	"Equipe.h"
+	"Matriz3Linhas.h"
+

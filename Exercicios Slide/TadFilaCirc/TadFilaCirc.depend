@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1509310857 source:c:\users\thiago\desktop\ufjf\ed 1\exercicios slide\tadfilacirc\main.cpp
+	<iostream>
+	"TadFilaCirc.h"
+
+1509309656 c:\users\thiago\desktop\ufjf\ed 1\exercicios slide\tadfilacirc\tadfilacirc.h
+
+1509310956 source:c:\users\thiago\desktop\ufjf\ed 1\exercicios slide\tadfilacirc\tadfilacirc.cpp
+	<iostream>
+	<cstdlib>
+	"TadFilaCirc.h"
+

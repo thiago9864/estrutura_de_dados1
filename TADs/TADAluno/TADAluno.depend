@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1503604985 source:c:\users\sala\downloads\tadaluno\main.cpp
+	<iostream>
+	<string>
+	"Aluno.h"
+
+1503605139 source:c:\users\sala\downloads\tadaluno\aluno.cpp
+	<iostream>
+	"Aluno.h"
+
+1503605083 c:\users\sala\downloads\tadaluno\aluno.h
+

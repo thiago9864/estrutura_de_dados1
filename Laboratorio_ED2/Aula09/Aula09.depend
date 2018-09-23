@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1508171757 source:/ice/Área de Trabalho/Aula09/FilaEncad.cpp
+	<iostream>
+	"FilaEncad.h"
+	<cstdlib>
+
+1508171518 /ice/Área de Trabalho/Aula09/FilaEncad.h
+	"No.h"
+
+1507506647 /ice/Área de Trabalho/Aula09/No.h
+
+1508171908 source:/ice/Área de Trabalho/Aula09/main.cpp
+	<iostream>
+	"PilhaEncad.h"
+	"FilaEncad.h"
+
+1508172670 /ice/Área de Trabalho/Aula09/PilhaEncad.h
+	"No.h"
+
+1508172668 source:/ice/Área de Trabalho/Aula09/PilhaEncad.cpp
+	<iostream>
+	"PilhaEncad.h"
+	<cstdlib>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1503434866 source:c:\users\sala\downloads\tadpoligono\main.cpp
+	<iostream>
+	"poligono.h"
+
+1503434784 c:\users\sala\downloads\tadpoligono\poligono.h
+
+1503434872 source:c:\users\sala\downloads\tadpoligono\poligono.cpp
+	<iostream>
+	<cmath>
+	"poligono.h"
+

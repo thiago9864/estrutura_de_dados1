@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1509241637 source:c:\users\thiago\desktop\segundo tvc ed\2otvc2016\listacont.cpp
+	<iostream>
+	<cstdlib>
+	"ListaCont.h"
+
+1509241486 c:\users\thiago\desktop\segundo tvc ed\2otvc2016\listacont.h
+
+1509240689 source:c:\users\thiago\desktop\segundo tvc ed\2otvc2016\listadupla.cpp
+	<iostream>
+	<cstdlib>
+	"ListaDupla.h"
+
+1509127493 c:\users\thiago\desktop\segundo tvc ed\2otvc2016\listadupla.h
+	"NoDuplo.h"
+
+1507731461 c:\users\thiago\desktop\segundo tvc ed\2otvc2016\noduplo.h
+
+1509125757 source:c:\users\thiago\desktop\segundo tvc ed\2otvc2016\pilha.cpp
+	<iostream>
+	<cstdlib>
+	"NoPilha.h"
+	"Pilha.h"
+
+1509125657 c:\users\thiago\desktop\segundo tvc ed\2otvc2016\nopilha.h
+
+1509125970 c:\users\thiago\desktop\segundo tvc ed\2otvc2016\pilha.h
+
+1509279698 source:c:\users\thiago\desktop\segundo tvc ed\2otvc2016\main.cpp
+	<iostream>
+	"FilaEncad.h"
+	"ListaDupla.h"
+	"ListaCont.h"
+	"Pilha.h"
+
+1509241912 c:\users\thiago\desktop\segundo tvc ed\2otvc2016\filaencad.h
+	"No.h"
+
+1509124856 c:\users\thiago\desktop\segundo tvc ed\2otvc2016\no.h
+

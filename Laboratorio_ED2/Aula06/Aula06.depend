@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1506361568 source:/ice/Área de Trabalho/Aula06/main.cpp
+	<iostream>
+	"Ponto.h"
+	"ListaCont.h"
+
+1506108350 /ice/Área de Trabalho/Aula06/Ponto.h
+	<cmath>
+
+1506362291 /ice/Área de Trabalho/Aula06/ListaCont.h
+	"Ponto.h"
+
+1506364531 source:/ice/Área de Trabalho/Aula06/ListaCont.cpp
+	<iostream>
+	<cstdlib>
+	"Ponto.h"
+	"ListaCont.h"
+

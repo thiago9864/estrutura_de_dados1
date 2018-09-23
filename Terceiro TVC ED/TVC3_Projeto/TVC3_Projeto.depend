@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1511395404 source:c:\users\thiago\desktop\terceiro tvc ed\tvc3_projeto\main.cpp
+	<iostream>
+	"ArvBinBusca.h"
+
+1511749292 c:\users\thiago\desktop\terceiro tvc ed\tvc3_projeto\arvbinbusca.h
+	<iostream>
+	<cstdlib>
+	<math.h>
+	"No.h"
+
+1510880793 c:\users\thiago\desktop\terceiro tvc ed\tvc3_projeto\no.h
+
+1511445272 source:c:\users\thiago\desktop\terceiro tvc ed\tvc3_projeto\arvbinbusca.cpp
+	"ArvBinBusca.h"
+	<cmath>
+

@@ -1,0 +1,3 @@
+C:/Users/Thiago/Desktop/UFJF/Lab Programacao 2/Aula03/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Thiago/Desktop/UFJF/Lab Programacao 2/Aula03/cmake-build-debug/CMakeFiles/Aula03.dir
+C:/Users/Thiago/Desktop/UFJF/Lab Programacao 2/Aula03/cmake-build-debug/CMakeFiles/edit_cache.dir

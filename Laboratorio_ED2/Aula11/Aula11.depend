@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1511199359 source:/ice/Área de Trabalho/aula 11/Aula11/ArvBinBusca.cpp
+	<iostream>
+	<stdlib.h>
+	"ArvBinBusca.h"
+
+1511198607 /ice/Área de Trabalho/aula 11/Aula11/ArvBinBusca.h
+	"No.h"
+
+1510790485 /ice/Área de Trabalho/aula 11/Aula11/No.h
+
+1511198622 source:/ice/Área de Trabalho/aula 11/Aula11/main.cpp
+	<iostream>
+	"ArvBinBusca.h"
+
+1511386820 source:c:\users\thiago\desktop\ufjf\lab programacao 2\aula11\arvbinbusca.cpp
+	<iostream>
+	<stdlib.h>
+	<cmath>
+	"ArvBinBusca.h"
+
+1511384671 c:\users\thiago\desktop\ufjf\lab programacao 2\aula11\arvbinbusca.h
+	"No.h"
+
+1511182016 c:\users\thiago\desktop\ufjf\lab programacao 2\aula11\no.h
+
+1511387157 source:c:\users\thiago\desktop\ufjf\lab programacao 2\aula11\main.cpp
+	<iostream>
+	"ArvBinBusca.h"
+

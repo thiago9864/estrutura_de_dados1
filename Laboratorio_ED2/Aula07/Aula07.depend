@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1506969820 source:/ice/Área de Trabalho/Aula07/ListaEncad.cpp
+	<iostream>
+	<cstdlib>
+	"ListaEncad.h"
+
+1506968752 /ice/Área de Trabalho/Aula07/ListaEncad.h
+	"No.h"
+
+1506369683 /ice/Área de Trabalho/Aula07/No.h
+
+1506969897 source:/ice/Área de Trabalho/Aula07/main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"ListaEncad.h"
+

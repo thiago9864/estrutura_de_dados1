@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1505247202 source:c:\users\sala\downloads\tadmatriztridiagonal\main.cpp
+	<iostream>
+	"MatrizTriDiagonal.h"
+
+1505248434 c:\users\sala\downloads\tadmatriztridiagonal\matriztridiagonal.h
+
+1505248434 source:c:\users\sala\downloads\tadmatriztridiagonal\matriztridiagonal.cpp
+	<iostream>
+	<cstdlib>
+	"MatrizTriDiagonal.h"
+
+1505248434 source:c:\users\thiago\desktop\ufjf\ed 1\tads\tadmatriztridiagonal\matriztridiagonal.cpp
+	<iostream>
+	<cstdlib>
+	"MatrizTriDiagonal.h"
+
+1505248434 c:\users\thiago\desktop\ufjf\ed 1\tads\tadmatriztridiagonal\matriztridiagonal.h
+
+1505328158 source:c:\users\thiago\desktop\ufjf\ed 1\tads\tadmatriztridiagonal\main.cpp
+	<iostream>
+	"MatrizTriDiagonal.h"
+

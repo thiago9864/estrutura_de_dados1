@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1504639359 source:c:\users\sala\downloads\tadvetorflex\main.cpp
+	<iostream>
+	"VetorFlex.h"
+
+1504639386 c:\users\sala\downloads\tadvetorflex\vetorflex.h
+
+1504639392 source:c:\users\sala\downloads\tadvetorflex\vetorflex.cpp
+	<iostream>
+	<cstdlib>
+	"VetorFlex.h"
+
